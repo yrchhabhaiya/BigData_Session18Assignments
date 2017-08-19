@@ -26,6 +26,8 @@ Problem Statement
 3 In case the table exists, it must be dropped and recreated.
 Note: Prefer using Batch Load for this purpose
 
+Files: Assignment 18.2.pdf; HBaseBulkLoad.JAVA & RecreateTable.JAVA
+
 ---------------------------------------------------------------------------------
 Assignment 18.3
 
