@@ -35,14 +35,15 @@ Problem Statement:
 Explain the below concepts with an example in brief.
 Share the screenshot of the examples practiced.
 1 version
-2 DDL commands:
-3 Create table
-4 Alter table
-5 Describe
-6 Drop table
-7 List
-8 Is Enabled
-9 Truncate
-10 put
-11 Get
-12 Scan
+2 Create table
+3 Alter table
+4 Describe
+5 Drop table
+6 List
+7 Is Enabled
+8 Truncate
+9 put
+10 Get
+11 Scan
+
+Files: Assignment 18.3.pdf
